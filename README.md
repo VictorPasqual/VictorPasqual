@@ -29,6 +29,7 @@
   <a href = "mrpasqual2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hugo-pasqual-05b28b202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/playlist/4NCVE2F6IPuWF8SbGETg4S?si=dab9a4d3cdef423d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://www.figma.com/files/project/31410766/Team-project?fuid=978729324722679277" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
  
   
   ![Snake animation](https://github.com/victorpasqual/victorpasqual/blob/output/github-contribution-grid-snake.svg)
