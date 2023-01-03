@@ -17,8 +17,8 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-Cypress" height="30" width="40" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg">
-  <img align="center" alt="Victor-Jest" height"20" width="30" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
-  <img align="center" alt="Victor-Selenium" height"20" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
+  <img align="center" alt="Victor-Jest" height"15" width="25" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
+  <img align="center" alt="Victor-Selenium" height"15" width="25" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
 </div>
   
   ##
