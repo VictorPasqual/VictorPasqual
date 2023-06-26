@@ -15,8 +15,8 @@
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Victor-CSharp" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/do-sustenido_6132221?term=c&page=1&position=4&origin=search&related_id=6132221">
-   <img align="center" alt="Victor-Angular" height="30" width="40" src="https://as2.ftcdn.net/v2/jpg/02/95/03/85/1000_F_295038583_mn0uxJ6A0YO57HA4xXQqHFUjiW1BcqBE.jpg">
+  <img align="center" alt="Victor-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg">
+   <img align="center" alt="Victor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/angular.svg">
   <img align="center" alt="Victor-Cypress" height="30" width="40" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg">
   <img align="center" alt="Victor-Jest" height"15" width="25" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
   <img align="center" alt="Victor-Selenium" height"15" width="25" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
