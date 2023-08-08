@@ -16,13 +16,12 @@
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg">
-   <img align="center" alt="Victor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/angular.svg">
+   <img align="center" alt="Victor-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
   <img align="center" alt="Victor-Cypress" height="30" width="40" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg">
   <img align="center" alt="Victor-Jest" height"15" width="25" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
   <img align="center" alt="Victor-Selenium" height"15" width="25" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
 </div>
   
-  ##
   
 <div> 
   <a href="https://www.youtube.com/user/vhbp2003/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -31,7 +30,6 @@
   <a href = "mrpasqual2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-hugo-pasqual-05b28b202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/playlist/4NCVE2F6IPuWF8SbGETg4S?si=dab9a4d3cdef423d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href="https://www.figma.com/files/project/31410766/Team-project?fuid=978729324722679277" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
  
   
   ![Snake animation](https://github.com/victorpasqual/victorpasqual/blob/output/github-contribution-grid-snake.svg)
