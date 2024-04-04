@@ -32,6 +32,6 @@
   <a href="https://open.spotify.com/playlist/4NCVE2F6IPuWF8SbGETg4S?si=dab9a4d3cdef423d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
   
-  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
    
 </div>
