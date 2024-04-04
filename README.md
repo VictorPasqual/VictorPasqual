@@ -2,7 +2,7 @@
 
   <div  align="center" style="margin-bottom:100px">
     <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=VictorPasqual&theme=highcontrast&mode=weekly" />
-    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=VictorPasqual&show_icons=true&theme=vision-friendly-dark vision-friendly-dark&layout=compact" />
+    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=VictorPasqual&show_icons=true&theme=radical&layout=compact" />
  </div>
   
  <div style="display: inline_block"><br>
@@ -32,6 +32,6 @@
   <a href="https://open.spotify.com/playlist/4NCVE2F6IPuWF8SbGETg4S?si=dab9a4d3cdef423d" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F17F09&height=120&section=footer"/>
    
 </div>
